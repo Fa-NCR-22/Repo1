@@ -5,5 +5,7 @@ public class codetest {
     	   System.out.print("hello fatima zahra");
     	   System.out.print("how are you");
     	   System.out.print("modificqtion 1");
+    	   System.out.print("modificqtion 1");
+    	   
        }
 }
